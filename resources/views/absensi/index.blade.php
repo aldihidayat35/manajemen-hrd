@@ -76,7 +76,7 @@
             <!--end::Filter-->
 
             <!--begin::Stats (Di bawah filter)-->
-            <div class="row g-5 g-xl-8 mb-5">
+            {{-- <div class="row g-5 g-xl-8 mb-5">
                 <div class="col-xl-3 col-md-6">
                     <div class="card card-xl-stretch" style="background: linear-gradient(112.14deg, #00D2FF 0%, #3A7BD5 100%);">
                         <div class="card-body py-4">
@@ -157,7 +157,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
             <!--end::Stats-->
             <!--end::Filter-->
 
